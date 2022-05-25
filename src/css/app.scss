@@ -1,0 +1,16 @@
+.custom-button {
+    cursor: pointer;
+    color: $grey-9;
+    margin: 0 6px;
+    &:hover {
+      opacity: 0.6;
+    }
+}
+
+.dialog-card{
+  min-width:520px;
+  .header{
+    font-size:20px;
+    color:#fff
+  }
+}
